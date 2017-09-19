@@ -19,6 +19,8 @@ In the `body` of `index.html`, create:
 
 ### CSS
 
+Download the `cross.svg` and `circle.svg` files to your directory.
+
 Create a `style.css` (and add the `link` in the `head` of your
 `index.html`) with the following content:
 
